@@ -6,7 +6,12 @@
 
 /*
  4. Your output prediction:
-  
+  touch your eye to your head
+  touch your head to your eye
+  touch your shoulders to your elbow
+  touch your eyes and ears to your eyes and ears
+  touch your toes to your Toes
+  touch your shoulders to your knees toes
   
  */
 
