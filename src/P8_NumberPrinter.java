@@ -7,8 +7,12 @@
 public class P8_NumberPrinter {
 
 	public static void main(String[] args) {
-		// TODO Auto-generated method stub
+		printNumbers(10);
 
 	}
-
+		public static void printNumbers(int number) {
+			for(int i = 1; i <= number; i++) {
+				System.out.print("[" + i + "]");
+			}
+		}
 }
